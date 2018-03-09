@@ -1,0 +1,20 @@
+Evolution in Mendelian Populations is a lengthy 1931 scientific paper on evolution by the American population geneticist Sewall Wright.
+The paper was first published in Genetics volume 16, pages 97–159. In it, Wright outlines various concepts, including genetic drift, effective population size, and inbreeding.
+A contemporary review by R.A. Fisher can be found here
+
+
+== Overview ==
+Studiers of evolution such as Lamarck and those who postulated the inheritance of acquired characteristics (e.g. Theodor Eimer and Edward Drinker Cope) were concerned with heredity and sought a link between one generation to the next. Lamarck thought that bodily responses from one generation should be passed along to future generations, which Wright refers to as "direct evolution". Sewall Wright expresses that the birth of genetics stems from Mendelian inheritance principles and so "any theory of evolution"  must also be based on Mendelian inheritance.
+
+
+== See also ==
+
+Evolutionary biology
+
+
+== References ==
+
+
+== External links ==
+Reprint from Genetics
+Reprint in Electronic Scholarly Publishing

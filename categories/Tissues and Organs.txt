@@ -1,0 +1,144 @@
+Transplantable organs and tissues may both refer to organs and tissues that are relatively often or routinely transplanted (here "main organs and tissues"), as well as relatively seldom transplanted organs and tissues and ones on the experimental stage.
+
+
+== Main organs ==
+
+
+=== Heart ===
+
+Heart transplantation is performed on patients with end-stage heart failure or severe coronary artery disease. The most common procedure is to take a working heart from a recently deceased organ donor (allograft) and implant it into the patient. The patient's own heart may either be removed (orthotopic procedure) or, less commonly, left in to support the donor heart (heterotopic procedure). It is also possible to take a heart from another species (xenograft), or implant a man-made artificial one, although the outcome of these two procedures has been less successful in comparison to the far more commonly performed allografts.
+
+
+=== Lung ===
+
+While lung transplants carry certain associated risks, they can also extend life expectancy and enhance the quality of life for end-stage pulmonary patients.
+While the precise details of surgery will depend on the exact type of transplant, there are many steps which are common to all of these procedures. Prior to operating on the recipient, the transplant surgeon inspects the donor lung(s) for signs of damage or disease. If the lung or lungs are approved, then the recipient is connected to an IV line and various monitoring equipment, including pulse oximetry. The patient will be given general anesthesia, and a machine will breathe for him or her.
+It takes about one hour for the pre-operative preparation of the patient. A single lung transplant takes about four to eight hours, while a double lung transplant takes about six to twelve hours to complete. A history of prior chest surgery may complicate the procedure and require additional time.
+
+
+=== Heart-lung ===
+
+A heart-lung transplant is a procedure carried out to replace both heart and lungs in a single operation. Due to a shortage of suitable donors, it is a rare procedure; only about a hundred such transplants are performed each year in the United States.
+The patient is anesthetised. When the donor organs arrive, they are checked for fitness; if any organs show signs of damage, they are discarded and the operation cancelled. In order to avoid removal of recipient organs when donor organs are not viable, it is standard procedure that the patient is not operated on until the donor organs arrive and are judged suitable, despite the time delay this involves.
+Once suitable donor organs are present, the surgeon makes an incision starting above and finishing below the sternum, cutting all the way to the bone. The skin edges are retracted to expose the sternum. Using a bone saw, the sternum is cut down the middle. Rib spreaders are inserted in the cut, and spread the ribs to give access to the heart and lungs of the patient.
+The patient is connected to a heart-lung machine, which circulates and oxygenates blood. The surgeon removes the failing heart and lungs. Most surgeons endeavour to cut blood vessels as close as possible to the heart to leave room for trimming, especially if the donor heart is of a different size than the original organ.
+The donor heart and lungs are positioned and sewn into place. As the donor organs warm up to body temperature, the lungs begin to inflate. The heart may fibrillate at first - this occurs because the cardiac muscle fibres are not contracting synchronously. Internal paddles can be used to apply a small electric shock to the heart to restore proper rhythm.
+Once the donor organs are functioning normally, the heart-lung machine is withdrawn, and the chest is closed.
+
+
+=== Kidney ===
+
+Kidney transplantation is the organ transplant of a kidney in a patient with end-stage renal disease. Kidney transplantation is typically classified as deceased-donor (formerly known as cadaveric) or living-donor transplantation depending on the source of the recipient organ. Living-donor renal transplants are further characterized as genetically related (living-related) or non-related (living-unrelated) transplants, depending on whether a biological relationship exists between the donor and recipient.
+
+
+=== Liver ===
+
+Liver transplantation is the replacement of a diseased liver with a healthy liver allograft. The most commonly used technique is orthotopic transplantation, in which the native liver is removed and the donor organ is placed in the same anatomic location as the original liver. Liver transplantation nowadays is a well accepted treatment option for end-stage liver disease and acute liver failure.
+
+
+=== Pancreas ===
+
+A pancreas transplant involves implanting a healthy pancreas (one that can produce insulin) into a person who has diabetes. Because the pancreas performs functions necessary in the digestion process, the recipient's native pancreas is left in place, and the donated pancreas attached in a different location. In the event of rejection of the new pancreas, the recipient could not survive without the native pancreas still in place. The healthy pancreas comes from a donor who has just died or it may be a partial pancreas from a living donor. Whole pancreas transplants from living donors are not possible, again because the pancreas is a necessary organ for digestion. At present, pancreas transplants are usually performed in persons with insulin-dependent diabetes who have severe complications.
+
+
+=== Intestine ===
+
+Small intestine transplantation is the rarest type of solid organ transplant. Currently, approximately half are pediatric recipients. The most common indications in adults are ischemia (22%), Crohn's disease (13%), trauma (12%), and desmoid tumor (10%); and in pediatrics, gastroschisis (21%), volvulus (18%), and necrotizing enterocolitis (12%). Higher graft and patient survival rates are seen at the more experienced transplant programs. Within the last few years, 1-year graft and patient survival at more experienced centers have reached 60% to 70% and 65% to 80%, respectively.
+
+
+=== Face ===
+
+A face transplant is a still-experimental procedure.
+In addition to skin, the transplant optimally includes bones, along with muscle, skin, blood vessels and nerves.
+
+
+== Main tissues and cells ==
+
+
+=== Cornea ===
+
+Corneal transplantation is a surgical procedure where a damaged or diseased cornea is replaced by donated corneal tissue which has been removed from a recently deceased individual having no known diseases which might affect the viability of the donated tissue. The cornea is the clear part of eye in front of the iris and pupil. The surgical procedure is performed by ophthalmologists, medical doctors who specialize in eyes, and are often done on an outpatient basis (the patient goes home following surgery).
+
+
+=== Skin ===
+
+Skin grafting is often used to treat:
+Extensive wounding or trauma
+Burns
+Areas of prior infection with extensive skin loss
+Specific surgeries that may require skin grafts for healing to occur
+Skin grafts are often employed after serious injuries when some of the body's skin is damaged. Surgical removal (excision or debridement) of the damaged skin is followed by skin grafting. The grafting serves two purposes: it can reduce the course of treatment needed (and time in the hospital), and it can improve the function and appearance of the area of the body which receives the skin graft.
+
+
+=== Hematopoietic stem cells (bone marrow) ===
+
+Hematopoietic stem cell transplantation (HSCT) is the transplantation of blood stem cells derived from the bone marrow (that is, bone marrow transplantation) or blood. Stem cell transplantation is a medical procedure in the fields of hematology and oncology, most often performed for people with diseases of the blood, bone marrow, or certain types of cancer.
+Stem cell transplantation was pioneered using bone-marrow-derived stem cells by a team at the Fred Hutchinson Cancer Research Center from the 1950s through the 1970s led by E. Donnall Thomas, whose work was later recognized with a Nobel Prize in Physiology and Medicine. Thomas' work showed that bone marrow cells infused intravenously could repopulate the bone marrow and produce new blood cells. His work also reduced the likelihood of developing a life-threatening complication called graft-versus-host disease.
+The first physician to perform a successful human bone marrow transplant was Robert A. Good.
+With the availability of the stem cell growth factors GM-CSF and G-CSF, most hematopoietic stem cell transplantation procedures are now performed using stem cells collected from the peripheral blood, rather than from the bone marrow. Collecting peripheral blood stem cells provides a bigger graft, does not require that the donor be subjected to general anesthesia to collect the graft, results in a shorter time to engraftment, and may provide for a lower long-term relapse rate.
+Hematopoietic stem cell transplantation remains a risky procedure with many possible complications; it has traditionally been reserved for patients with life-threatening diseases. While occasionally used experimentally in nonmalignant and nonhematologic indications such as severe disabling auto-immune disease and cardiovascular disease, the risk of fatal complications appears too high to gain wider acceptance.
+
+
+=== Blood ===
+
+Blood transfusion is the process of transferring blood or blood-based products from one person into the circulatory system of another. Blood transfusions can be life-saving in some situations, such as massive blood loss due to trauma, or can be used to replace blood lost during surgery. Blood transfusions may also be used to treat a severe anaemia or thrombocytopenia caused by a blood disease. People suffering from hemophilia or sickle-cell disease may require frequent blood transfusions. Early transfusions used Whole Blood, but modern medical practice is to use only components of the blood.
+
+
+== Other organs ==
+
+
+=== Hands ===
+
+The operation is carried out in the following order: bone fixation, tendon repair, artery repair, nerve repair, then vein repair. The operation typically lasts 8 to 12 hours. By comparison, a typical heart transplant operation lasts 6 to 8 hours.
+The recipient of a hand transplant needs to take immunosuppressive drugs, as the body's natural immune system will try to reject, or destroy, the hand. These drugs cause the recipient to have a weak immune system and suffer severely even from minor infections.
+In 2008, surgeons in Munich transplanted two whole arms. The long-term results remain to be seen.
+
+
+=== Leg ===
+In ischiopagic conjoined twins, a healthy leg was transplanted from a dying conjoined twin to her sister. There is no need for immunosuppression because of the identical genetic make-up of the donor and recipient.
+The first leg transplant between genetically different people was performed in 2011, led by surgeon Pedro Cavadas. The procedure provided two legs to a double amputee, and recovery went well for about eight months. By then the man was able to stand up in a swimming pool. However, due to an unrelated illness, immunosuppressants had to be stopped, and the legs consequently needed to be amputated.
+
+
+=== Penis ===
+
+The penis may be an allograft from a human donor, or it may be grown artificially, though the latter is untested in humans.
+
+
+=== Bone ===
+
+Bone grafting is a surgical procedure that replaces missing bone with material from the patient's own body, an artificial, synthetic, or natural substitute. Bone grafting is used to repair bone fractures that are extremely complex, pose a significant health risk to the patient, or fail to heal properly.
+
+
+=== Uterus ===
+
+A uterine transplant is the replacement of a uterus which has undergone necrosis. Though the procedure has significant potential, it has been performed only a few times.
+
+
+=== Thymus ===
+
+Thymus transplantation can be used to treat infants with DiGeorge syndrome, which results in an absent or hypoplastic thymus, in turn causing problems with the immune system's T-cell mediated response. It is exclusively used in people with complete DiGeorge anomaly, which are entirely athymic. This subgroup represents less than 1% of DiGeorge syndrome patients.
+
+
+== Other cells and tissues ==
+
+
+=== Islets of Langerhans ===
+
+Islet cell transplantation has the possibility of restoring beta cells and curing diabetes.
+The Chicago Project headed at University of Illinois at Chicago Medical Center is investigating ways to regenerate beta cells in vivo. With that being said, beta cells experience apoptosis early and thus are destroyed within a normal-functioning pancreas. The source of this seems to come from the transfer of Pander, a gene that works by attaching to RNA. Pander, when active, causes the beta cells to be blocked at S phase, which induces apoptosis. This loss of beta cell mass eventually leads to a loss of most of the transplanted beta cells.
+
+
+=== Heart valve ===
+
+Biological valves are valves of animals, like pigs, which undergo several chemical procedures in order to make them suitable for implantation in the human heart. The porcine (or pig) heart is most similar to the human heart, and therefore represents the best anatomical fit for replacement. Implantation of a porcine valve is a type of Xenotransplantation, or Xenograft, which means a transplant from one species (in this case a pig) to another. There are some risks associated with a Xenograft such as the human body's tendency to reject foreign material. Medication can be used to retard this effect, but is not always successful.
+
+
+=== Ovary ===
+Ovary transplantation, giving rise to successful pregnancies, has so far only been carried out on identical twins, and will result in children who will have the genetic inheritance of the organ donor and not the recipient. More importantly, use of an ovarian transplant from a genetically identical donor prevents rejection of the donated organ. This bypasses the need for immune suppressants to maintain the function of the donated ovary, which is not vital for survival. More significantly, many immunosuppressants, such as mycophenolate mofetil, may cause birth defects.
+
+
+== See also ==
+Organ transplant
+
+
+== References ==

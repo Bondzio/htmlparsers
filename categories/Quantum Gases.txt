@@ -1,0 +1,29 @@
+In physics, a quantum (plural: quanta) is the minimum amount of any physical entity involved in an interaction. The fundamental notion that a physical property may be "quantized" is referred to as "the hypothesis of quantization". This means that the magnitude of the physical property can take on only discrete values consisting of integer multiples of one quantum.
+For example, a photon is a single quantum of light (or of any other form of electromagnetic radiation), and can be referred to as a "light quantum". Similarly, the energy of an electron bound within an atom is also quantized, and thus can only exist in certain discrete values. Atoms and matter in general are stable because electrons can only exist at discrete energy levels in an atom. Quantization is one of the foundations of the much broader physics of quantum mechanics. Quantization of the energy and its influence on how energy and matter interact (quantum electrodynamics) is part of the fundamental framework for understanding and describing nature.
+
+
+== Etymology and discovery ==
+The word quantum comes from the Latin quantus, meaning "how great". "Quanta", short for "quanta of electricity" (electrons), was used in a 1902 article on the photoelectric effect by Philipp Lenard, who credited Hermann von Helmholtz for using the word in the area of electricity. However, the word quantum in general was well known before 1900. It was often used by physicians, such as in the term quantum satis. Both Helmholtz and Julius von Mayer were physicians as well as physicists. Helmholtz used quantum with reference to heat in his article on Mayer's work, and the word quantum can be found in the formulation of the first law of thermodynamics by Mayer in his letter dated July 24, 1841. Max Planck used quanta to mean "quanta of matter and electricity", gas, and heat. In 1905, in response to Planck's work and the experimental work of Lenard (who explained his results by using the term quanta of electricity), Albert Einstein suggested that radiation existed in spatially localized packets which he called "quanta of light" ("Lichtquanta").
+The concept of quantization of radiation was discovered in 1900 by Max Planck, who had been trying to understand the emission of radiation from heated objects, known as black-body radiation. By assuming that energy can only be absorbed or released in tiny, differential, discrete packets he called "bundles" or "energy elements", Planck accounted for certain objects changing colour when heated. On December 14, 1900, Planck reported his findings to the German Physical Society, and introduced the idea of quantization for the first time as a part of his research on black-body radiation. As a result of his experiments, Planck deduced the numerical value of h, known as the Planck constant, and could also report a more precise value for the Avogadro–Loschmidt number, the number of real molecules in a mole and the unit of electrical charge, to the German Physical Society. After his theory was validated, Planck was awarded the Nobel Prize in Physics for his discovery in 1918.
+
+
+== Beyond electromagnetic radiation ==
+While quantization was first discovered in electromagnetic radiation, it describes a fundamental aspect of energy not just restricted to photons. In the attempt to bring theory into agreement with experiment, Max Planck postulated that electromagnetic energy is absorbed or emitted in discrete packets, or quanta.
+
+
+== Misuse ==
+The adjective "quantum" is frequently used in common parlance to mean the opposite of its scientific definition. A "quantum leap" has been used colloquially since the 1950s to imply a large change, as opposed to the smallest possible change. It is also used in a range of pseudoscientific beliefs (quantum mysticism), where the adjective is used to imply that a paranormal event is a consequence of quantum physics.
+
+
+== See also ==
+
+
+== References ==
+
+
+== Further reading ==
+B. Hoffmann, The Strange Story of the Quantum, Pelican 1963.
+Lucretius, On the Nature of the Universe, transl. from the Latin by R.E. Latham, Penguin Books Ltd., Harmondsworth 1951.
+J. Mehra and H. Rechenberg, The Historical Development of Quantum Theory, Vol.1, Part 1, Springer-Verlag New York Inc., New York 1982.
+M. Planck, A Survey of Physical Theory, transl. by R. Jones and D.H. Williams, Methuen & Co., Ltd., London 1925 (Dover editions 1960 and 1993) including the Nobel lecture.
+Rodney, Brooks (2011) Fields of Color: The theory that escaped Einstein. Allegra Print & Imaging.

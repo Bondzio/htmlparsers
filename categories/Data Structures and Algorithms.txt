@@ -1,0 +1,9 @@
+The Dictionary of Algorithms and Data Structures is a dictionary style reference for many of the algorithms, algorithmic techniques, archetypal problems, and data structures found in the field of computer science. The dictionary is maintained by Paul E. Black and Vreda Pieterse, and is hosted by the Software and Systems Division, Information Technology Laboratory, a part of the National Institute of Standards and Technology. The new host is the FASTAR research group. It was created in September 1998.
+
+
+== References ==
+
+
+== External links ==
+Dictionary of Algorithms and Data Structures (on NIST website)
+Dictionary of Algorithms and Data Structures (hosted by the FASTAR research group)

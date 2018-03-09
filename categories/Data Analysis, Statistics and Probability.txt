@@ -1,0 +1,12 @@
+Probability and Statistics or also called Statistics and Probability are two related but separate academic disciplines. Statistical analysis often uses probability distributions, and the two topics are often studied together. However, probability theory contains much that is mostly of mathematical interest and not directly relevant to statistics. Moreover, many topics in statistics are independent of probability theory.
+
+
+== See also ==
+List of probability topics
+List of statistical topics
+Notation in probability and statistics
+
+
+== External links ==
+Probability and Statistics EBook
+Probability versus Statistics

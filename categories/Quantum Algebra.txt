@@ -1,0 +1,14 @@
+Quantum algebra is the study of noncommutative analogues and generalisations of commutative algebras, especially those arising in Lie theory. It is one of the top-level mathematics categories used by the arXiv.
+Subjects include:
+Quantum groups
+Skein theories
+Operadic algebra
+Diagrammatic algebra
+Quantum field theory
+
+
+== References ==
+
+
+== External links ==
+Quantum algebra at arxiv.org

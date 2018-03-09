@@ -1,0 +1,47 @@
+Methodology is the systematic, theoretical analysis of the methods applied to a field of study. It comprises the theoretical analysis of the body of methods and principles associated with a branch of knowledge. Typically, it encompasses concepts such as paradigm, theoretical model, phases and quantitative or qualitative techniques.
+A methodology does not set out to provide solutions - it is, therefore, not the same as a method. Instead, a methodology offers the theoretical underpinning for understanding which method, set of methods, or best practices can be applied to a specific case, for example, to calculate a specific result.
+It has been defined also as follows:
+"the analysis of the principles of methods, rules, and postulates employed by a discipline";
+"the systematic study of methods that are, can be, or have been applied within a discipline";
+"the study or description of methods".
+
+
+== Methodology, theory, paradigm, algorithm, and method ==
+The methodology is the general research strategy that outlines the way in which research is to be undertaken and, among other things, identifies the methods to be used in it. These methods, described in the methodology, define the means or modes of data collection or, sometimes, how a specific result is to be calculated. Methodology does not define specific methods, even though much attention is given to the nature and kinds of processes to be followed in a particular procedure or to attain an objective.
+When proper to a study of methodology, such processes constitute a constructive generic framework, and may therefore be broken down into sub-processes, combined, or their sequence changed.
+A paradigm is similar to a methodology in that it is also a constructive framework. In theoretical work, the development of paradigms satisfies most or all of the criteria for methodology. An algorithm, like a paradigm, is also a type of constructive framework, meaning that the construction is a logical, rather than a physical, array of connected elements.
+Any description of a means of calculation of a specific result is always a description of a method and never a description of a methodology. It is thus important to avoid using methodology as a synonym for method or body of methods. Doing this shifts it away from its true epistemological meaning and reduces it to being the procedure itself, or the set of tools, or the instruments that should have been its outcome. A methodology is the design process for carrying out research or the development of a procedure and is not in itself an instrument, or method, or procedure for doing things.
+Methodology and method are not interchangeable. In recent years, however, there has been a tendency to use methodology as a "pretentious substitute for the word method". Using methodology as a synonym for method or set of methods leads to confusion and misinterpretation and undermines the proper analysis that should go into designing research.
+
+
+== See also ==
+Art methodology
+Hermeneutics
+Interdisciplinarity
+Paradigm
+Scientific method
+
+
+== References ==
+
+
+== Further reading ==
+Berg, Bruce L., 2009, Qualitative Research Methods for the Social Sciences. Seventh Edition. Boston MA: Pearson Education Inc.
+Creswell, J. (1998). Qualitative inquiry and research design: Choosing among five traditions. Thousand Oaks, California: Sage Publications.
+Creswell, J. (2003). Research Design: Qualitative, Quantitative, and Mixed Methods Approaches. Thousand Oaks, California: Sage Publications.
+Franklin, M.I. (2012). Understanding Research: Coping with the Quantitative-Qualitative Divide. London and New York: Routledge.
+Guba, E. and Lincoln, Y. (1989). Fourth Generation Evaluation. Newbury Park, California: Sage Publications.
+Herrman, C. S. (2009). “Fundamentals of Methodology”, a series of papers On the Social Sciences Research Network (SSRN), online.
+Howell, K. E. (2013) Introduction to the Philosophy of Methodology. London: Sage Publications.
+Ndira, E. Alana, Slater, T. and Bucknam, A. (2011). Action Research for Business, Nonprofit, and Public Administration - A Tool for Complex Times . Thousand Oaks, CA: Sage.
+Joubish, Farooq Dr. (2009). Educational Research Department of Education, Federal Urdu University, Karachi, Pakistan
+Patton, M. Q. (2002). Qualitative research & evaluation methods (3rd edition). Thousand Oaks, California: Sage Publications.
+Silverman, David (Ed). (2011). Qualitative Research: Issues of Theory, Method and Practice, Third Edition. London, Thousand Oaks, New Delhi, Singapore: Sage Publications
+Soeters, Joseph; Shields, Patricia and Rietjens, Sebastiaan. 2014. Handbook of Research Methods in Military Studies New York: Routledge.
+Webster's New International Dictionary of the English Language, Second Edition, Unabridged, W. A. Neilson, T. A. Knott, P. W. Carhart (eds.), G. & C. Merriam Company, Springfield, MA, 1950.
+
+
+== External links ==
+Freedictionary , usage note on the word Methodology
+US National Library of Medicine, Why Most Published Research Findings Are False, John P. A. Ioannidis
+Researcherbook , research methodology forum and resources

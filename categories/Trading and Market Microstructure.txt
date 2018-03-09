@@ -1,0 +1,53 @@
+Market microstructure is a branch of finance concerned with the details of how exchange occurs in markets. While the theory of market microstructure applies to the exchange of real or financial assets, more evidence is available on the microstructure of financial markets due to the availability of transactions data from them. The major thrust of market microstructure research examines the ways in which the working processes of a market affects determinants of transaction costs, prices, quotes, volume, and trading behavior. Recent innovations have allowed an expansion into the study of the impact of market microstructure on the incidence of market abuse, such as insider trading, market manipulation and broker-client conflict.
+
+
+== Definition ==
+Maureen O’Hara defines market microstructure as “[...] the study of the process and outcomes of exchanging assets under explicit trading rules. While much of economics abstracts from the mechanics of trading, microstructure literature analyzes how specific trading mechanisms affect the price formation process.”
+The National Bureau of Economic Research has a market microstructure research group that, it says, “is devoted to theoretical, empirical, and experimental research on the economics of securities markets, including the role of information in the price discovery process, the definition, measurement, control, and determinants of liquidity and transactions costs, and their implications for the efficiency, welfare, and regulation of alternative trading mechanisms and market structures.”
+
+
+== Issues ==
+Microstructure deals with issues of market structure and design, price formation and price discovery, transaction and timing cost, information and disclosure, and market maker and investor behavior.
+
+
+=== Market structure and design ===
+This factor focuses on the relationship between price determination and trading rules. In some markets, for instance, assets are traded through dealers who keep an inventory (e.g., new cars), while other markets are dominated by brokers who act as intermediaries (e.g. housing). One of the important questions in microstructure research is how market structure affects trading costs and whether one structure is more efficient than another. Market microstructure relate the behavior of market participants, whether investors, dealers, investor admins to authority, hence microstructure is a critical factor that affects the investment decision as well as investment exit.
+
+
+=== Price formation and discovery ===
+This factor focuses on the process by which the price for an asset is determined. For example, in some markets prices are formed through an auction process (e.g. eBay), in other markets prices are negotiated (e.g., new cars) or simply posted (e.g. local supermarket) and buyers can choose to buy or not.
+
+
+=== Transaction cost and timing cost ===
+This factor focuses on transaction cost and timing cost and the impact of transaction cost on investment returns and execution methods. Transaction costs include order processing costs, adverse selection costs, inventory holding costs, and monopoly power. Their impact on liquidation of large portfolios has been investigated by Neil Chriss and Robert Almgren and their impact on hedging portfolios has been studied by Tianhui Li and Robert Almgren .
+
+
+=== Information and disclosure ===
+This factor focuses on the market information and transparency and the impact of the information on the behavior of the market participants.
+
+
+== References ==
+
+
+== Further reading ==
+Foucault, Pagano, Roell, Market Liquidity: Theory, Evidence, and Policy, Oxford University Press, 2013, ISBN 978-0-19-993624-3
+Jalil, Abdul and Feridun, Mete (2010) Explaining exchange rate movements: An application of the market microstructure approach on the Pakistani foreign exchange market. The Journal of Developing Areas, 44 (1). pp. 255–265. ISSN 0022-037X (print), 1548-2278 (on-line) (doi:10.1353/jda.0.0083)
+Harris, Lawrence, Trading & Exchanges: Market Microstructure for Practitioners, Oxford Press, Oxford, 2003, ISBN 0-19-514470-8.
+Hasbrouck, Joel, Empirical Market Microstructure, Oxford Press, Oxford, 2007, ISBN 0-19-530164-1.
+Madhavan, Ananth, 2000, "Market Microstructure: A Survey." Journal of Financial Markets 3, 205-258.
+O'Hara, Maureen, Market Microstructure Theory, Blackwell, Oxford, 1995, ISBN 1-55786-443-8.
+Schwartz, Robert A., Francioni, Reto, "Equity Markets in Action: The Fundamentals of Liquidity, Market Structure & Trading", John Wiley & Sons, 2004, ISBN 0-471-46922-X
+Schwartz, Robert A., Francioni, Reto, Weber, Bruce W., "The Equity Trader Course", John Wiley & Sons, 2006, ISBN 978-0-471-74155-8.
+Stoll, Hans R., "Market Microstructure," in Constantinides, Harris and Stulz (eds.), Handbook of the Economics of Finance, Elsevier, Amsterdam, 2003, ISBN 0-444-51363-9.
+Lehalle, Charles-Albert; Laruelle, Sophie, eds. (2013). Market Microstructure in Practice. Hackensack, New Jersey: World Scientific. p. 332. ISBN 978-981-4566-16-2. 
+Holden, Craig W., Jacobsen, Stacey, Subrahmanyam, Avanidhar, "The Empirical Analysis of Liquidity," 2014, Foundations and Trends 8, No. 4, 1-102
+A Worldwide Examination of Exchange Market Quality: Greater Integrity Increases Market Efficiency (http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1890928)
+Ranking World Equity Markets on the Basis of Market Efficiency and Integrity (http://papers.ssrn.com/sol3/papers.cfm?abstract_id=490462)
+High Frequency Trading and End of Day manipulation (https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/289028/12-1055-dr22-high-frequency-trading-and-end-of-day-manipulation.pdf)
+High frequency trading–assessing the impact on market efficiency and integrity (https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/289040/12-1061-dr28-high-frequency-trading-impact-on-market-efficiency.pdf)
+
+
+== External links ==
+The web site of the Market Microstructure: Confronting Many Viewpoints international conference (with links to speakers' presentations).
+The website of the Capital Markets Research Cooperative Centre dedicated to optimal market design (https://web.archive.org/web/20141006150618/http://www.cmcrc.com/index.php/)
+The Foresight Project on the Future of Computer Trading (https://www.gov.uk/government/collections/future-of-computer-trading)

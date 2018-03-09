@@ -1,0 +1,57 @@
+The science of pattern formation deals with the visible, (statistically) orderly outcomes of self-organization and the common principles behind similar patterns in nature.
+In developmental biology, pattern formation refers to the generation of complex organizations of cell fates in space and time. Pattern formation is controlled by genes. The role of genes in pattern formation is an aspect of morphogenesis, the creation of diverse anatomies from similar genes, now being explored in the science of evolutionary developmental biology or evo-devo. The mechanisms involved are well seen in the anterior-posterior patterning of embryos from the model organism Drosophila melanogaster (a fruit fly), one of the first organisms to have its morphogenesis studied, and in the eyespots of butterflies, whose development is a variant of the standard (fruit fly) mechanism.
+
+
+== Examples ==
+
+Examples of pattern formation can be found in Biology, Chemistry, Physics and Mathematics, and can readily be simulated with Computer graphics, as described in turn below.
+
+
+=== Biology ===
+
+Biological patterns such as animal markings, the segmentation of animals, and phyllotaxis are formed in different ways.
+In developmental biology, pattern formation describes the mechanism by which initially equivalent cells in a developing tissue in an embryo assume complex forms and functions. Embryogenesis, such as of the fruit fly Drosophila, involves coordinated control of cell fates. Pattern formation is genetically controlled, and often involves each cell in a field sensing and responding to its position along a morphogen gradient, followed by short distance cell-to-cell communication through cell signaling pathways to refine the initial pattern. In this context, a field of cells is the group of cells whose fates are affected by responding to the same set positional information cues. This conceptual model was first described as the French flag model in the 1960s. More generally, the morphology of organisms is patterned by the mechanisms of evolutionary developmental biology, such as changing the timing and positioning of specific developmental events in the embryo.
+Possible mechanisms of pattern formation in biological systems include the classical reaction-diffusion model proposed by Alan Turing and the more recently found elastic instability mechanism which is thought to be responsible for the fold patterns on the cerebral cortex of higher animals, among other things.
+
+
+==== Growth of Colonies ====
+Bacterial colonies show a large variety of patterns formed during colony growth. The resulting shapes depend on the growth conditions. In particular, stresses (hardness of the culture medium, lack of nutrients, etc.) enhance the complexity of the resulting patterns. Other organisms such as slime moulds display remarkable patterns caused by the dynamics of chemical signalling.
+
+
+==== Vegetation patterns ====
+
+Vegetation patterns such as tiger bush and fir waves form for different reasons. Tiger bush consists of stripes of bushes on arid slopes in countries such as Niger where plant growth is limited by rainfall. Each roughly horizontal stripe of vegetation absorbs rainwater from the bare zone immediately above it. In contrast, fir waves occur in forests on mountain slopes after wind disturbance, during regeneration. When trees fall, the trees that they had sheltered become exposed and are in turn more likely to be damaged, so gaps tend to expand downwind. Meanwhile, on the windward side, young trees grow, protected by the wind shadow of the remaining tall trees.
+
+
+=== Chemistry ===
+
+Belousov-Zhabotinsky reaction
+Liesegang rings
+
+
+=== Physics ===
+Bénard cells, Laser, cloud formations in stripes or rolls. Ripples in icicles. Washboard patterns on dirtroads. Dendrites in solidification, liquid crystals. Solitons.
+
+
+=== Mathematics ===
+Sphere packings and coverings. Mathematics underlies the other pattern formation mechanisms listed.
+
+
+=== Computer graphics ===
+
+Some types of automata have been used to generate organic-looking textures for more realistic shading of 3d objects.
+A popular Photoshop plugin, KPT 6, included a filter called 'KPT reaction'. Reaction produced reaction-diffusion style patterns based on the supplied seed image.
+A similar effect to the 'KPT reaction' can be achieved with convolution functions in digital image processing, with a little patience, by repeatedly sharpening and blurring an image in a graphics editor. If other filters are used, such as emboss or edge detection, different types of effects can be achieved.
+Computers are often used to simulate the biological, physical or chemical processes that lead to pattern formation, and they can display the results in a realistic way. Calculations using models like Reaction-diffusion or MClone are based on the actual mathematical equations designed by the scientists to model the studied phenomena.
+
+
+== References ==
+
+
+== Bibliography ==
+Ball, Philip (2009). Nature's Patterns: a tapestry in three parts. 1:Shapes. 2:Flow. 3:Branches. Oxford. ISBN 978-0199604869. 
+
+
+== External links ==
+SpiralZoom.com, an educational website about the science of pattern formation, spirals in nature, and spirals in the mythic imagination.
+'15-line Matlab code', A simple 15-line Matlab program to simulate 2D pattern formation for reaction-diffusion model.
